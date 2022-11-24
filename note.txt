@@ -1,0 +1,4 @@
+Phần lưu ý:
+    - Delete Eng thì phải vào tìm xóa trong Vie
+    - Delete Vie thì phải vào tìm xóa trong Eng
+    - Thêm một từ thì phải thêm vào nghĩa tương ứng
